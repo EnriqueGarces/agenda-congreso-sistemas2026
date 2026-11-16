@@ -1,0 +1,9 @@
+{
+  "name": "Agenda Sistemas CSIU XI",
+  "short_name": "Agenda CSIU",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#002F6C",
+  "icons": []
+}
